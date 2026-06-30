@@ -31,25 +31,17 @@ and complexity analysis.]
 ### Design Choices
 [I tried making the code as readable as possible and left a very aired out code to be easy to read and understand]
 
-## 4. Challenges, Solutions, and Error Report
-### Technical Challenges
-- Challenge 1: [I had a tough time implementing Integer.h]
-  - Solution: [I have read the professor's material to review the Classes subject]
-
 ### Error Report
 - Common Errors Encountered:
   - Error 1: [couldnt get the randomizer to work and i had syntax error]
     - Cause: [added srand in the wrong place in code hierarchy]
-    - Solution: [put it under main and is correct]
+    - Solution: [put it under main and works as intended ]
 
-## 5. Testing Strategy
+## 4. Testing Strategy
 ### Verification Methods
 [I have used Visual Studio Code to simulate the code]
 
-## 6. Conclusion
-[I found it challenging but i have followed the guide step by step and it was getting easier]
-
-## 7. References
+## 5. References
 https://www.jjay-csci272.org/course-materials/lesson-4
 
 -------------------------------------------------------------------------------
